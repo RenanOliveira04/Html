@@ -102,6 +102,10 @@ main {
     cursor: pointer;
     font-size: 15px;
 }
+.text-bx .input-bx button a {
+    text-decoration: none;
+    color: #e3f0ff;
+}
 .medias-socias {
     margin-top: 30px;
 }
